@@ -102,3 +102,7 @@ body {
     color: #111827;  /* bijna zwart */
     text-shadow: 0 0 2px rgba(255,255,255,0.4);
 }
+.vak.geselecteerd {
+    outline: 3px solid #facc15;   /* gele rand */
+    outline-offset: -3px;
+}
